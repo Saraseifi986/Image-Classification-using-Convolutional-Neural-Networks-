@@ -8,9 +8,9 @@ To learn how to preprocess image data for deep learning.
 To build and train a CNN model using a popular deep learning framework.
 To evaluate the model's performance and improve it.
 
-Tools and Libraries:
+ Libraries:
 Python: Programming language.
-TensorFlow/Keras or PyTorch: Deep learning frameworks.
+TensorFlow/Keras: Deep learning frameworks.
 NumPy: For numerical operations.
 Matplotlib/Seaborn: For data visualization.
 scikit-learn: For additional data processing and evaluation metrics.
